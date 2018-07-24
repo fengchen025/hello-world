@@ -1,2 +1,3 @@
 # hello-world
-First repository on Github for Feng Chen
+Feng's first repository on Github
+Feng is currently a computer vision PhD student
